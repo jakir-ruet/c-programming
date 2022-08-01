@@ -1,0 +1,6 @@
+/Volumes/Resources/CCppProgramming/c-programming/cmake-build-debug/CMakeFiles/c_programming.dir
+/Volumes/Resources/CCppProgramming/c-programming/cmake-build-debug/CMakeFiles/c_programming_1.dir
+/Volumes/Resources/CCppProgramming/c-programming/cmake-build-debug/CMakeFiles/c_programming_2.dir
+/Volumes/Resources/CCppProgramming/c-programming/cmake-build-debug/CMakeFiles/c_programming_3.dir
+/Volumes/Resources/CCppProgramming/c-programming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Resources/CCppProgramming/c-programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
